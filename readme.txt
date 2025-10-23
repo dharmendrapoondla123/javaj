@@ -5,10 +5,7 @@ To compile- javac Test.java
 To run- java Test.java
 
 Follow these steps to run java projects
-//this edit fie
-//this edit second line
-//this is third line
-//this is the fouth commit
+//This is the first commit
 
 Hope you will enjoy!!
 Happy jenkins
